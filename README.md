@@ -8,6 +8,7 @@ Xây dựng mô hình Machine Learning để dự đoán người dùng rời b�
 <img width="517" height="527" alt="image" src="https://github.com/user-attachments/assets/b1f35094-d581-4699-9c92-3e68a550eeb5" />
 
 **2. Check Outlier**
+
 <img width="862" height="576" alt="image" src="https://github.com/user-attachments/assets/d3d71ccc-893d-4349-baeb-fa1103f75a61" />
 
 **3. Handle missing value % Duplicate**
@@ -26,6 +27,7 @@ Xây dựng mô hình Machine Learning để dự đoán người dùng rời b�
 <img width="1442" height="439" alt="image" src="https://github.com/user-attachments/assets/0bb83690-6173-4498-8828-2c1fa60f191f" />
 
 **Split trian - Standarzation - Apply model**
+
 <img width="634" height="728" alt="image" src="https://github.com/user-attachments/assets/b1bbb85a-37c8-4776-ba9d-14c2faf1552f" />
 
 # Choose model & Evaluation
